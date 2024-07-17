@@ -2,6 +2,6 @@
 
 sub me on youtube
 
-```javascrip
+```javascript
 console.log('hello world');
 ```
